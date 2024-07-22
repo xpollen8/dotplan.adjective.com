@@ -307,9 +307,7 @@ const dotplans = [
 	"47 years ago today, many of our boys died at Pearl Harbor, and ..."<br />
 	&lt;&lt;murmur murmur murmur&gt;&gt;<br />
 	"Did I say September 7?  Sorry about that."<br />
-				-George Bush, in yet another diplomatic triumph<br />
-	<br />
-	
+				-George Bush, in yet another diplomatic triumph
 `,
 `
 	"No, I don't know that atheists should be considered as citizens, nor<br />
@@ -326,22 +324,18 @@ const dotplans = [
 	<br />
 		A proclamation dedicating last month to increased awareness of<br />
 		the disease was signed by President Reagan on October 28 but was<br />
-		not made public until the month had ended, the White House said.<br />
-	
+		not made public until the month had ended, the White House said.
 `,
 `
 				Anyone who knows Dan<br />
 				Quayle knows that he'd<br />
 				rather play golf than<br />
 				have sex."      <br />
-						 -- Mrs. Quayle<br />
-	<br />
-	
+						 -- Mrs. Quayle
 `,
 `
 	"We've got to have a knowledge base"--Former CIA director George Bush,<br />
-	referring to his strategy for coping with AIDS.<br />
-	
+	referring to his strategy for coping with AIDS.
 `,
 `
 	'There's no way you could take down an antelope and tear into<br />
@@ -372,8 +366,7 @@ const dotplans = [
 	Sure can.<br />
 	<br />
 	David Christopher Rogers<br />
-	drogers@riacs.edu<br />
-	
+	drogers@riacs.edu
 `,
 `
 			Hollow shells of summer escape<br />
@@ -391,8 +384,7 @@ const dotplans = [
 			and took my under-lip<br />
 		Softly between my teeth.<br />
 	<br />
-				- Edna St. Vincent Millay<br />
-	
+				- Edna St. Vincent Millay
 `,
 `
 			 What lips my lips have kissed, and where, and why,<br />
@@ -411,8 +403,7 @@ const dotplans = [
 			 I only know that summer sang in me<br />
 			 A little while, that in me sings no more.<br />
 	<br />
-	From Collected Poems, Edna St. Vincent Millay<br />
-	
+	From Collected Poems, Edna St. Vincent Millay
 `,
 `
 	One has to wonder, listening to arguments both pro and con concerning<br />
@@ -423,8 +414,7 @@ const dotplans = [
 	"things mental," and not simply "insert tab A into slot B."<br />
 	<br />
 	-Ric<br />
-	ChaseRunner@portal.com<br />
-	
+	ChaseRunner@portal.com
 `,
 `
 				The Sneetches<br />
@@ -433,8 +423,7 @@ const dotplans = [
 	Sneetches had none upon thars. Those stars weren't so big. They were<br />
 	really so small - you might think such a thing wouldn't matter at all.<br />
 	<br />
-	copyright (c) 1961 by Theodor Geisel and is reprinted without permission.<br />
-	
+	copyright (c) 1961 by Theodor Geisel and is reprinted without permission.
 `,
 `
 		To be grown up is to sit at the table with people who have died,<br />
@@ -447,8 +436,7 @@ const dotplans = [
 		You drink it standing up.<br />
 		And leave the house.<br />
 	<br />
-				- Edna St. Vincent Millay<br />
-	
+				- Edna St. Vincent Millay
 `,
 `
 	"When these big churches get rolling, they are just hell to put out."<br />
@@ -466,9 +454,7 @@ const dotplans = [
 	yield tender and crisp cookies that are not peaked.  Type I shall have a<br />
 	characteristic chocolate color; Type II shall have a rich, creamy color<br />
 	with brown edges and bottom; Type III shall have a rich golden-brown<br />
-	color.   (from MIL-C-43205F, Military Specifications for Cookie Mix, Dry) <br />
-	<br />
-	
+	color.   (from MIL-C-43205F, Military Specifications for Cookie Mix, Dry) 
 `,
 `
 				 i heard somebody say burn baby burn<br />
@@ -488,9 +474,7 @@ const dotplans = [
 	about the same age as your charge, go up and initiate conversation<br />
 	about _anything_."<br />
 	<br />
-	- From the Cosmopolitan article, "Change Your Life: 25 Ways to Meet A Man"<br />
-	<br />
-	
+	- From the Cosmopolitan article, "Change Your Life: 25 Ways to Meet A Man"
 `,
 `
 		Muammar Qaddafi<br />
@@ -505,8 +489,7 @@ const dotplans = [
 	<br />
 		But we simply call him:<br />
 	<br />
-	M[ou]'?am+[ae]r .*([AEae]l[- ])?[GKQ]h?[aeu]+([dtz][dhz]?)+af[iy]<br />
-	
+	M[ou]'?am+[ae]r .*([AEae]l[- ])?[GKQ]h?[aeu]+([dtz][dhz]?)+af[iy]
 `,
 `
 	TO MAKE A FAGGOT: cut an 8-inch rib of celery in 2 pieces, crosswise.  In<br />
@@ -529,16 +512,14 @@ const dotplans = [
 `
 		The passive voice is generally less emphatic than the<br />
 					active and should be avoided where emphasis is desired.<br />
-																		USGS Suggestions to Authors (1958)<br />
-	
+																		USGS Suggestions to Authors (1958)
 `,
 `
 		Church authorities deposed Pope Benedict IX (1020-1055)<br />
 		for using the Lateran Palace as the setting for lavish<br />
 		homosexual orgies.  Reinstated and deposed several times,<br />
 		he was finally sent down in 1048 and died in obscurity<br />
-		as a monastic penitent.<br />
-	
+		as a monastic penitent.
 `,
 `
 		"The inspiration of the Bible depends on the ignorance<br />
@@ -555,8 +536,7 @@ const dotplans = [
 		that they will stoop to the most revolting and unbelievable<br />
 		acts of indecency ... consequently, no effort is ever<br />
 		spared by the police to suppress this insidious form of evil<br />
-		whenever and wherever it might occur."<br />
-	
+		whenever and wherever it might occur."
 `,
 `
 		death will be unlike<br />
@@ -709,9 +689,7 @@ const dotplans = [
 `
 	There are no langauges; only dialects with armies.<br />
 	<br />
-	bondc@iuvax.cs.indiana.edu<br />
-	<br />
-	
+	bondc@iuvax.cs.indiana.edu
 `,
 `
 	"It's a good thing [rappers] Eric B. and Rakim don't have a band."<br />
@@ -897,8 +875,7 @@ const dotplans = [
 	<br />
 	<br />
 	This material is from Tammy Faye Bakker's books "I Gotta Be Me" ("Me")<br />
-	and "Run to the Roar" ("Run")<br />
-	
+	and "Run to the Roar" ("Run")
 `,
 `
 	Axl Rose was in France, in a bar drinking beer by himself, when a<br />
@@ -909,8 +886,7 @@ const dotplans = [
 	said they didnt like Americans<br />
 	<br />
 	9 Feb 90 14:14:00 GMT<br />
-	9099.25d289e3@amherst.bitnet<br />
-	
+	9099.25d289e3@amherst.bitnet
 `,
 `
 	Last night while I made supper, I listened to our university station's<br />
@@ -951,8 +927,7 @@ const dotplans = [
 	channel that is used by deputies on patrol.<br />
 	<br />
 	While the music is played, the deputies cannot use the channel to<br />
-	communicate, Sheriff Nick Navarro said.<br />
-	
+	communicate, Sheriff Nick Navarro said.
 `,
 `
 	Sheesh.  They're firing up the ovens and the gas chambers and the<br />
@@ -1018,8 +993,7 @@ const dotplans = [
 	<br />
 	Watta world.<br />
 	P.S. Can't be a typo...it's been in the book for at least two years,<br />
-	now...<br />
-	
+	now...
 `,
 `
 			SILHOUETTE: This is absolutely incredible. You look at the front of<br />
@@ -1053,8 +1027,7 @@ const dotplans = [
 		think you're a klutz with your putz- just make sure you don't<br />
 		"jiggle and drop".<br />
 	<br />
-	wilber@nunki.usc.edu (John Wilber)<br />
-	
+	wilber@nunki.usc.edu (John Wilber)
 `,
 `
 	I've heard reports of some radio stations playing "I Didn't Write This"<br />
@@ -1128,8 +1101,7 @@ const dotplans = [
 					 ourselves, set up his reason as the rule for what we are to read?<br />
 					 It is an insult to our citizens to question whether they are rational<br />
 					 beings or not."<br />
-																									--Thomas Jefferson<br />
-	
+																									--Thomas Jefferson
 `,
 `
 	&gt; michaelm@vax.MCD.3Com.Com (Michael McNeil) writes:<br />
@@ -1177,8 +1149,7 @@ const dotplans = [
 `
 	Today is Jesse Helmes Birthday.  He is 69.<br />
 	<br />
-	Today is also Lee Harvey Oswald's Birthday.  He would be 51.<br />
-	
+	Today is also Lee Harvey Oswald's Birthday.  He would be 51.
 `,
 `
 	Mon Dec 31 23:59:52 EST 1990<br />
@@ -1331,8 +1302,7 @@ const dotplans = [
 	<br />
 		Answer 2:	The machine gun has rhythm.<br />
 	<br />
-		Answer 3:	A machine gun begins to sound nice after a while.<br />
-	
+		Answer 3:	A machine gun begins to sound nice after a while.
 `,
 `
 	a most horrifying experience:  outside the side door at work<br />
