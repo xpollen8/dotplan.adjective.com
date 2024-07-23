@@ -4,7 +4,7 @@
 		<script type="text/javascript" src="plans.js"></script>
 		<script type="text/javascript">
 			function newplan() {
-				document.getElementById("dotplan").innerHTML = '<p>' + dotplans[Math.floor((Math.random() * dotplans.length))] + '</p>';
+				document.getElementById("dotplan").innerHTML = '<p>' + dotplans[Math.floor((Math.random() * dotplans.length))].trim() + '</p>';
 			}
 		</script>
 	</head>
@@ -13,9 +13,9 @@
 			<a href="#" onclick="newplan();"><font color="#333333">gimme another</font></a>
 			<p />
 			<div style="background: #dedede; padding: 10px 20px; text-align: left; display: inline-block;" onclick="newplan();">
-				<code id='dotplan'>
+				<pre id='dotplan'>
 					sry.. need javascript to see this useless crap.
-				</code>
+				</pre>
 			</div>
 			<p />
 			<a href="#" onclick="newplan();"><font color="#333333">gimme another</font></a>
